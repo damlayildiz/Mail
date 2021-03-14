@@ -8,6 +8,7 @@ This is a front-end for an email client that makes API calls to send and receive
     - **Archive page** where users can view their archived emails and unarchive them. 
 -   **Clicking on email**  takes users to a view where they see the content of that email: *email’s sender, recipients, subject, timestamp, and body.*
 -  Users can **send an email** with recipients, a subject and a content. 
+
 -   Users can **reply to an email** by clicking on the reply button on that email's page. The  `recipient`  field pre-filled with whoever sent the original email.  `Subject`  line is pre-filled with the *Re:* added to the original subject.  `Body`  of the email is pre - filled with  `"On Jan 1 2020, 12:00 AM foo@example.com wrote:"`  followed by the original text of the email. 
 
 ## Screenshots and Demo
